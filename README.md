@@ -36,7 +36,7 @@
 ### :man_technologist: About Me :
 
 <h4 align="center">
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India (:india:).
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India :india:
 </h4>
 
 - 🔭 I’m currently :briefcase: working as a 💻 Software Engineer and contributing to frontend and backend for building web applications.
