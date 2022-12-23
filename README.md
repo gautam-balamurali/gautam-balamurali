@@ -59,7 +59,7 @@
   </a>
   
 <!-- Fun Facts Section -->
-- <h6 align="center">⚡ Some Fun Facts:</h6> 
+<!-- - <h6 align="center">⚡ Some Fun Facts:</h6> 
 <div align="center">
   <ol>
     <li> This is me 24/7, hoping the love of my life will appear outside my window one day:&nbsp;
@@ -81,7 +81,7 @@
       <img align="center" src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy-downsized.gif" height="150" width="250"/>
     </li>
   </ol>
-</div>
+</div> -->
 
 ---
 
