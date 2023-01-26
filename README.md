@@ -113,7 +113,7 @@
 ### :fire: My Stats :
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=gautam-balamurali&theme=Javascript-dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-balamurali&langs_count=6&hide=c,python&layout=compact&theme=vision-friendly-dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gautam-balamurali&show_icons=true&theme=highcontrast"/>
+  <div><img src="http://github-readme-streak-stats.herokuapp.com?user=gautam-balamurali&theme=Javascript-dark"/></div>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-balamurali&langs_count=6&hide=c,python&layout=compact&theme=vision-friendly-dark"/></div>
+ <div> <img src="https://github-readme-stats.vercel.app/api?username=gautam-balamurali&show_icons=true&theme=highcontrast"/></div>
 </div>
