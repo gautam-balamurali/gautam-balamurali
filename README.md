@@ -39,7 +39,7 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India :india:
 </h4>
 
-- 🔭 I’m currently :briefcase: working as a 💻 Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m currently :briefcase: working as a 💻 Senior Software Engineer and contributing to frontend and backend for building web applications.
 
 
 - 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="15" height="15"/>&nbsp;React.
